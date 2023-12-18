@@ -24,7 +24,7 @@ O vídeo descreve e pontua as relações entre as ferramentas de IA e o processo
 Acredito que o resultado tenha ficado dentro das expectativas apesar dos ajustes manuais devido às restrições que meu usuário possuía para geração do vídeo.
 O texto trata de forma bastante responsável em relação ao tema e foram utilizadas várias modalidades de IA durante a confecção do produto.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://drive.google.com/file/d/1gFn_xoRiURvOZw1JbWQGoQtCjYGb4I6W/view?usp=drive_link)
 
 ## 💭 Reflexão (Opcional)
 Foi um desafio interessante pois foram utilizadas várias IAs, um tema contemporâneo, unindo a alta capacidade das IA´s com a criatividade no momento da formatação final do produto.
